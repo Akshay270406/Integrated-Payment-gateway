@@ -1,32 +1,31 @@
-### Payment Integration Website
-This is a donation website in which we have integrated payment gateway.
+ Payment Integration Website
 
-### Use Of Project
-This project can be used in any e-commerce or donation website.
+A simple **donation/payment integration website** where a payment gateway is integrated to allow users to make secure donations online.
+
+---
+
+### Project Overview
+This website is designed for collecting donations with an integrated payment gateway.  
+It can also be easily extended and reused in **e-commerce checkout systems**.
+
+---
+
+### Use Cases
+- Donation / Charity websites  
+- E-commerce websites (payment checkout module)  
+- Fundraising platforms  
+- Online contribution systems  
+
+---
 
 ### Tech Stack
-HTML
-CSS
-JAVASCRIPT
-
-#### Steps to Use:
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 ---
 
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-
----
-
-
-### Screenshots
-![1](https://user-images.githubusercontent.com/63583646/124602004-0ec97600-de86-11eb-809b-51e0d83a2be6.png)
-
-
-
+### How to Run the Project
+1. Download or clone the repository:
+   ```bash
+   git clone https://github.com/Akshay270406/Integrated-Payment-gateway.git
